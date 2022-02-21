@@ -1,0 +1,6 @@
+[submodule "Libraries/ModbusRobot"]
+	path = Libraries/ModbusRobot
+	url = https://siemens-energy-sicam@dev.azure.com/siemens-energy-sicam/Power%20Quality%20Devices/_git/TA-ModbusRobot
+[submodule "Libraries/PQDeviceRobot"]
+	path = Libraries/PQDeviceRobot
+	url = https://siemens-energy-sicam@dev.azure.com/siemens-energy-sicam/Power%20Quality%20Devices/_git/TA-PQDeviceRobot
