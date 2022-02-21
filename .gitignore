@@ -1,0 +1,14 @@
+.vscode/.ropeproject/*
+.venv/*
+
+Libraries/**/*.whl
+*.pyc
+*.pcapng
+*.pcap
+
+Environment/TestOutput/**/*
+Environment/TestSuite/Variables.robot
+geckodriver*.log
+*.table
+*.pck
+*.cms
