@@ -1,0 +1,15 @@
+attrs>=17.4
+deprecated>=1.2
+lxml>=4.1
+numpy>=1.14
+pydal>=17.11
+pymysql>=0.9
+requests>=2.18
+robotframework-seleniumlibrary>=4.1
+robotframework>=3.0
+scapy>=2.4.4
+selenium>=3.9
+more-itertools>=8.5.0
+ModbusRobot
+syslog-rfc5424-parser>=0.3.2
+pytz>=2021.3

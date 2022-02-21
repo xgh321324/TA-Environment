@@ -1,0 +1,22 @@
+{
+  "Device": {
+    "GENERAL": {
+      "INDICATION_1_FROM_REMOTE": {
+        "prefix": "Ind",
+        "inclass": "GGIO",
+        "inst": "1",
+        "functionClass": "ST",
+        "dataObject": "SPCSO1",
+        "names": ["stVal", "q", "t"]
+      },
+      "INDICATION_2_FROM_REMOTE": {
+        "prefix": "Ind",
+        "inclass": "GGIO",
+        "inst": "1",
+        "functionClass": "ST",
+        "dataObject": "SPCSO2",
+        "names": ["stVal", "q", "t"]
+      }
+    }
+  }
+}

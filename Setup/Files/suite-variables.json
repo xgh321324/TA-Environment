@@ -1,0 +1,12 @@
+{
+	"Username": {
+		"value": "PQadmin",
+		"comment": "RBAC user; only used if RBAC is supported; had to have the role Administrator",
+		"overwrite": false
+	},
+	"Password": {
+		"value": "Abcd1234!",
+		"comment": "Password for login; user password if RBAC is used, login password otherwise",
+		"overwrite": false
+	}
+}

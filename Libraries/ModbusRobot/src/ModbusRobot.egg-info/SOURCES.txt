@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+src/ModbusRobot/__init__.py
+src/ModbusRobot/version.py
+src/ModbusRobot.egg-info/PKG-INFO
+src/ModbusRobot.egg-info/SOURCES.txt
+src/ModbusRobot.egg-info/dependency_links.txt
+src/ModbusRobot.egg-info/requires.txt
+src/ModbusRobot.egg-info/top_level.txt

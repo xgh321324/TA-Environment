@@ -1,0 +1,11 @@
+pylint
+isort
+jedi
+rope
+robot
+SeleniumLibrary
+RequestsLibrary
+robotide
+bs4
+ModbusRobot
+PQDeviceRobot

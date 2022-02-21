@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: PQDeviceRobot
+Version: 1.3.0.dev0
+Summary: UNKNOWN
+Home-page: https://code.siemens.com/pq-testautomation/PQDeviceRobot
+Author: Stefan Hahn
+Author-email: stefanhahn@siemens.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: Robot Framework
+Classifier: Framework :: Robot Framework :: Library
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: MacOS :: MacOS XOperating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Testing
