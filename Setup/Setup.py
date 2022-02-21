@@ -142,7 +142,7 @@ class PQTAESetup(object):
 		parser = argparse.ArgumentParser()
 		parser.add_argument('--prep-dev', help='Download all dependencies for offline developer installation', action='store_true')
 		parser.add_argument('--gen-variables', help='Generate Variables.robot file', action='store_true')
-		parser.add_argument('--index-url', help='Base URL of Python Package Index', default='https://devops.bt.siemens.com/artifactory/api/pypi/pypi-all/simple')
+		parser.add_argument('--index-url', help='Base URL of Python Package Index', default='https://pypi.tuna.tsinghua.edu.cn/simple')
 
 		return parser.parse_args()
 
