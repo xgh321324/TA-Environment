@@ -7,7 +7,7 @@
 
 由于我们目前用的这套测试框架内容比较多，且由于项目保密需要我将很多项目内容做了删除，但是框架是完整的。为了更清晰的展示框架结构，我画了一张思维导图 见仓库中的TA_Structrue.jpg：
 ### 思维导图：
-![TA structure diagram] (https://github.com/xgh321324/TA-Environment/blob/master/TA_structure.jpg)
+![TA structure diagram](https://github.com/xgh321324/TA-Environment/blob/master/TA_structure.jpg)
 
 最后的最后，如果大家有疑问，欢迎加QQ：970185127 一起讨论，互相学习！
 
