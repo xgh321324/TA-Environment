@@ -8,5 +8,10 @@
 		"value": "Abcd1234!",
 		"comment": "Password for login; user password if RBAC is used, login password otherwise",
 		"overwrite": false
+	},
+	"SeleniumTimeout": {
+		"value":     "60.0",
+		"comment":   "Selenium timeout for waiting keywords; can be specified as number of seconds or Robot Framework time string",
+		"overwrite": false
 	}
 }
