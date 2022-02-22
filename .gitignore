@@ -12,3 +12,4 @@ geckodriver*.log
 *.table
 *.pck
 *.cms
+*.idea
