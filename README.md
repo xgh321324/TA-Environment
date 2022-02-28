@@ -9,6 +9,10 @@
 ### 思维导图：
 ![TA structure diagram](https://github.com/xgh321324/TA-Environment/blob/master/TA_structure_diagram.png)
 
-最后的最后，如果大家有疑问，欢迎加QQ：970185127 一起讨论，互相学习！
+### 如何开始使用：
+参考博客：https://blog.csdn.net/xgh1951/article/details/123067010
+
+### 卸载最后
+如果大家有疑问，欢迎加QQ：970185127 一起讨论，互相学习！
 
 
